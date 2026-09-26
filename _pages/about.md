@@ -30,8 +30,6 @@ I am **Junteng Liu**, a first-year PhD candidate at the HKUST NLP Group, supervi
 
 ## Publications
 
-See also the [publications subpage](/publications/).
-
 **First-author papers**
 
 1. **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond.** Junteng Liu, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He. *Arxiv*, 2025. Has a GitHub code repository.
